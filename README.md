@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN or PERN-based projects. Whether as backend or frontend, or both!**
 
-- 💬 Ask me about **anything PERN stack and related technologies**
+- 💬 Ask me about **anything MERN/PERN stack and related technologies**
 
 - 📫 How to reach me **mederocc@gmail.com**
 
