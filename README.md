@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a full-fledged, full-stack application from scratch.**
 
-- 🌱 I’m currently learning **Shopify**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **MERN or PERN-based projects. Whether as backend or frontend, or both!**
 
