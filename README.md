@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Carlos Medero</h1>
-<h3 align="center">FULLSTACK DEVELOPER</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 - 🔭 I’m currently working on **a full-fledged, full-stack application from scratch.**
 
