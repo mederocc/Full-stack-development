@@ -1,6 +1,6 @@
 <style>
   .icon-link {
-    margin-right: 10px; /* Adjust as needed */
+    margin-right: 1vw; /* Adjust as needed */
   }
 </style>
 
