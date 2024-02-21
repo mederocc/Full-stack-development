@@ -1,3 +1,9 @@
+<style>
+  .icon-link {
+    margin-right: 10px; /* Adjust as needed */
+  }
+</style>
+
 <h1 align="center">Hello! I'm Carlos Medero</h1>
 <h3 align="center">Full-stack Developer</h3>
 
@@ -35,8 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
 
-<a href="https://auth0.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/auth0/auth0-original-wordmark.svg" alt="Auth0" width="40" height="40"/>
+<a href="https://auth0.com/" target="_blank" rel="noreferrer" class="icon-link">
+  <img src="https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/badge.png" alt="Auth0" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
