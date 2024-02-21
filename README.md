@@ -1,8 +1,4 @@
-<style>
-  .icon-link {
-    margin-right: 1vw; /* Adjust as needed */
-  }
-</style>
+
 
 <h1 align="center">Hello! I'm Carlos Medero</h1>
 <h3 align="center">Full-stack Developer</h3>
