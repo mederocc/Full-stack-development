@@ -1,13 +1,6 @@
 <h1 align="center">Hello! I'm Carlos Medero</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-- 🔭 I’m currently working on **a full-fledged, full-stack application from scratch.**
-
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **MERN or PERN-based projects. Whether as backend or frontend, or both!**
-
-- 💬 Ask me about **anything MERN/PERN stack and related technologies**
 
 - 📫 How to reach me **mederocc@gmail.com**
 
