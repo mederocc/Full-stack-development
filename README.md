@@ -2,9 +2,7 @@
 <h3 align="center">Full-stack Developer</h3>
 
 
-- 📫 How to reach me **mederocc@gmail.com**
-
-- ⚡ Fun fact **I somehow drink more sparkling water than I do regular water.**
+📫 How to reach me **mederocc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
