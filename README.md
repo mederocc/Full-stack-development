@@ -4,7 +4,7 @@
 <h3 align="center">Full-stack Developer</h3>
 
 
-📫 How to reach me **mederocc@gmail.com**
+Reach me at **mederocc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
