@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Carlos Medero - Full-stack Developer</h3>
+<h3 align="center">Carlos Medero • Full-stack Developer</h3>
 
 
 Reach me at **mederocc@gmail.com**
